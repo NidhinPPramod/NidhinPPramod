@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhinppramod" alt="nidhinppramod" /></a> </p>
 
-- 🌱 I’m currently learning **React and Django**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **nidhinpramod2002@gmail.com**
 
